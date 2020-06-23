@@ -1,7 +1,17 @@
 # Project Title
+* **Purpose** - To gain familiarity the following features
+  * Flex box
+  * CSS Selectors
+  * Positioning
+* **Description**
+  * Please modify `box-model1.html` to render a webpage resembling the image below.
+  <img src="./img/box-model1.png">
 
-* **Objective** - To create a product...
-* **Purpose** - To gain familiarity the following features...
+  * Please modify `box-model2.html` to render a webpage resembling the image below.
+  <img src="./img/box-model2.png">
+
+  * Please modify the `index.html` to render an anchor tag linking to each of the above webpages.
+
 
 
 
