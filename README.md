@@ -1,9 +1,10 @@
-# Project Title
+# Day 2 Exercises
 * **Purpose** - To gain familiarity the following features
   * Flex box
   * CSS Selectors
   * Positioning
 * **Description**
+  * Please click [here](https://github.com/platformps/lecturedemos/tree/master/2020Jun23) to view today's lecture demos
   * Please modify `box-model1.html` to render a webpage resembling the image below.
   <img src="./img/box-model1.png">
 
